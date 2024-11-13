@@ -1,0 +1,16 @@
+export { default as Home } from "./Home";
+// export { default as Explore } from "./Explore";
+// export { default as Saved } from "./Saved";
+export { default as Contents } from "./Contents";
+export { default as Notify } from "./Notify";
+export { default as Chats } from "./Chats";
+export { default as CreatePost } from "./CreatePost";
+export { default as Profile } from "./Profile";
+export { default as UpdateProfile } from "./UpdateProfile";
+export { default as EditPost } from "./EditPost";
+export { default as PostDetails } from "./PostDetails";
+export { default as LikedPosts } from "./LikedPosts";
+export { default as Settings } from "./Settings";
+export { default as Acedemic } from "./Acedemic";
+export { default as Events } from "./Events";
+// export { default as AllUsers } from "./AllUsers";
